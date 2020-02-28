@@ -34,7 +34,7 @@ module.exports = {
   output: {
     path: __dirname + '/dist',
     publicPath: '/',
-    filename: 'bundle.js',
+    filename: 'header.js',
     library: 'Header',
     libraryTarget: 'umd'
   }
